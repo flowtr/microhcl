@@ -1,0 +1,5 @@
+---
+UseTab: Always
+TabWidth: 2
+IndentWidth: 2
+BreakBeforeBraces: Attach
